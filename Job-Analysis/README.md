@@ -73,7 +73,7 @@ This project provides a detailed exploratory analysis of a real-world job listin
 ## 📁 How to Run
 
 ```bash
-git clone https://github.com/yukti-says/jobs-data-analysis.git
+git clone https://github.com/yukti-says/Data-Analytics-Projects.git
 cd jobs-data-analysis
 pip install -r requirements.txt
 jupyter notebook
